@@ -3,4 +3,4 @@ project(HomeWork10_03)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HomeWork10_03 Stack.cpp)
+add_executable(HomeWork10_03 LinkedList.cpp)
